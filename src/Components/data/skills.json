@@ -1,0 +1,37 @@
+[
+    {
+        "title":"PHP",
+        "imgSrc":"skills/php.jpg"
+    },
+    {
+        "title":"React",
+        "imgSrc":"skills/react.jpg"
+    },
+    {
+         "title":"GraphQl",
+        "imgSrc":"skills/graphql.png"
+    },
+    {
+         "title":"MongoDb",
+        "imgSrc":"skills/mongodb.png"
+    },
+    {
+         "title":"MySql",
+        "imgSrc":"skills/mysql.png"
+    },
+    {
+         "title":"HTML",
+        "imgSrc":"skills/html.png"
+    },
+    {
+         "title":"CSS",
+        "imgSrc":"skills/css.jpg"
+    },
+    {
+         "title":".Net",
+        "imgSrc":"skills/dotnet.png"
+    },{
+         "title":"Wordpress",
+        "imgSrc":"skills/wordpress.jpg"
+    }
+]
