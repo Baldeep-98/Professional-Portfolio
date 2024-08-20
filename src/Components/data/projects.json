@@ -2,29 +2,29 @@
     {
         "key":1,
         "title":"React Knowledge-Cove",
-         "imgSrc":"",
-         "description":"",
-         "source":""   
+         "imgSrc":"projects/react.png",
+         "description":"This is a project made with complete React js on online Library Management System",
+         "source":"https://www.github.com"   
     },
     {
         "key":2,
         "title":"PHP The Book Shelf",
-         "imgSrc":"",
-         "description":"",
-         "source":""   
+         "imgSrc":"projects/php.png",
+         "description":"This is a complete PHP project to manage book store",
+         "source":"https://www.github.com"   
     },
     {
         "key":3,
         "title":"Wordpress Electronic Gadgets",
-         "imgSrc":"",
-         "description":"",
-         "source":""   
+         "imgSrc":"projects/wordpress.png",
+         "description":"An Ecommerce website using wordpress for Electronic Gadgets",
+         "source":"https://www.github.com" 
     },
     {
         "key":4,
-        "title":"DotNet HomeNest",
-         "imgSrc":"",
-         "description":"",
-         "source":""   
+        "title":"DotNet CozyNestDecor",
+         "imgSrc":"projects/dotnet.png",
+         "description":"An ecommerce application using .NET for Home decoration",
+         "source":"https://www.github.com"   
     }
 ]
