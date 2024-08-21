@@ -10,7 +10,7 @@ const Projects = () => {
           {projects.map((data) => (
             <div
               key={data.id}
-              className="my-4 col-sm-6 col-md-4 col-lg-3 sm-2" // Adjust column size for more fitting
+              className="my-4 col-sm-6 col-md-4 col-lg-3 sm-2" 
             >
               <div className="flip-card">
                 <div className="flip-card-inner">
